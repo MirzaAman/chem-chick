@@ -1,0 +1,9 @@
+{
+    "input": "./src",
+    "output": "./build",
+    "stringArrayEncoding": "base64",
+    "shuffleStringArray": true,
+    "transformObjectKeys": true,
+    "identifierNamesGenerator": "hexadecimal"
+  }
+  
